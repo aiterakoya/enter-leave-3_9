@@ -1,0 +1,10 @@
+{
+    "enter-leave_3_9": {
+        "app_function": "server.app",
+        "aws_region": "ap-northeast-1",
+        "profile_name": "zappa-exec-user",
+        "project_name": "enter-leave-3-9",
+        "runtime": "python3.9",
+        "s3_bucket": "zappa-bmk5899tb"
+    }
+}
